@@ -2,7 +2,6 @@
  Write Javascript code with the mindset of a Javascript programmer 🚀
  
 ## Os principais assuntos abordados: 
----
 
 - O básico sobre Funções
 
